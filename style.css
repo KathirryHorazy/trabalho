@@ -1,0 +1,13 @@
+div  {
+	display: inline-block;
+}
+
+form label {
+	padding: 10px 10px;
+	display: block;
+}
+
+img  {
+	width: 450px;
+}
+
